@@ -21,3 +21,5 @@ Ten random samples of paired data with their dissimilarity values seem like belo
 <p align="center">
 <img src="image/display_image.png" height=400 width=900>
 </p>
+
+## 2) Custom layer  
