@@ -1,6 +1,6 @@
 # Custom_loss & Custom_layer
 
-## Custome loss function  
+## 1) Custome loss function  
 In this repository, I implemented Siamese Network with custom loss function "contrastive_loss".  
 By running 'SiameseNetwork_customLoss.py' code, you can see the structure of model like below:  
 <p align="center">
